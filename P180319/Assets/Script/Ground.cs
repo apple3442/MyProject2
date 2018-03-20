@@ -5,10 +5,6 @@ using UnityEngine;
 public class Ground : MoveObject
 {
 
-	void Start () {
-		
-	}
-
     public void GameUpdate()
     {
         base.GameUpdate();
