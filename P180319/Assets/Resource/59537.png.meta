@@ -15,54 +15,57 @@ TextureImporter:
     21300016: 59537_8
     21300018: 59537_9
     21300020: 59537_10
-    21300022: 59537_11
+    21300022: _0
     21300024: 59537_12
     21300026: 59537_13
-    21300028: 59537_14
+    21300028: 0
     21300030: 59537_15
     21300032: 59537_16
     21300034: 59537_17
     21300036: 59537_18
-    21300038: 59537_19
+    21300038: 1
     21300040: 59537_20
     21300042: 59537_21
-    21300044: 59537_22
-    21300046: 59537_23
+    21300044: 2
+    21300046: rank_0
     21300048: 59537_24
-    21300050: 59537_25
+    21300050: rank_3
     21300052: 59537_26
     21300054: 59537_27
     21300056: 59537_28
-    21300058: 59537_29
+    21300058: 3
     21300060: 59537_30
     21300062: 59537_31
     21300064: 59537_32
     21300066: 59537_33
-    21300068: 59537_34
+    21300068: 4
     21300070: 59537_35
-    21300072: 59537_36
+    21300072: 5
     21300074: 59537_37
     21300076: 59537_38
     21300078: 59537_39
-    21300080: 59537_40
-    21300082: 59537_41
+    21300080: _6
+    21300082: _7
     21300084: 59537_42
-    21300086: 59537_43
-    21300088: 59537_44
+    21300086: _8
+    21300088: _9
     21300090: 59537_45
     21300092: 59537_46
-    21300094: 59537_47
-    21300096: 59537_48
+    21300094: rank_2
+    21300096: rank_1
     21300098: 59537_49
-    21300100: 59537_50
-    21300102: 59537_51
-    21300104: 59537_52
-    21300106: 59537_53
-    21300108: 59537_54
-    21300110: 59537_55
-    21300112: 59537_56
-    21300114: 59537_57
-    21300116: 59537_58
+    21300100: new_rank
+    21300102: 6
+    21300104: 7
+    21300106: 8
+    21300108: 9
+    21300110: _2
+    21300112: _3
+    21300114: _4
+    21300116: _5
+    21300118: 59537_14
+    21300120: 59537_19
+    21300122: _1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -313,7 +316,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_11
+      name: _0
       rect:
         serializedVersion: 2
         x: 287
@@ -355,7 +358,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_14
+      name: 0
       rect:
         serializedVersion: 2
         x: 288
@@ -425,12 +428,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_19
+      name: 1
       rect:
         serializedVersion: 2
-        x: 291
+        x: 289
         y: 128
-        width: 5
+        width: 7
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -467,7 +470,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_22
+      name: 2
       rect:
         serializedVersion: 2
         x: 289
@@ -481,7 +484,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_23
+      name: rank_0
       rect:
         serializedVersion: 2
         x: 302
@@ -509,7 +512,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_25
+      name: rank_3
       rect:
         serializedVersion: 2
         x: 220
@@ -565,13 +568,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_29
+      name: 3
       rect:
         serializedVersion: 2
         x: 289
-        y: 87
+        y: 96
         width: 7
-        height: 19
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -635,7 +638,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_34
+      name: 4
       rect:
         serializedVersion: 2
         x: 287
@@ -663,7 +666,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_36
+      name: 5
       rect:
         serializedVersion: 2
         x: 287
@@ -719,7 +722,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_40
+      name: _6
       rect:
         serializedVersion: 2
         x: 284
@@ -733,7 +736,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_41
+      name: _7
       rect:
         serializedVersion: 2
         x: 292
@@ -761,7 +764,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_43
+      name: _8
       rect:
         serializedVersion: 2
         x: 284
@@ -775,7 +778,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_44
+      name: _9
       rect:
         serializedVersion: 2
         x: 292
@@ -817,7 +820,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_47
+      name: rank_2
       rect:
         serializedVersion: 2
         x: 242
@@ -831,7 +834,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_48
+      name: rank_1
       rect:
         serializedVersion: 2
         x: 266
@@ -859,7 +862,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_50
+      name: new_rank
       rect:
         serializedVersion: 2
         x: 146
@@ -873,7 +876,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_51
+      name: 6
       rect:
         serializedVersion: 2
         x: 165
@@ -887,7 +890,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_52
+      name: 7
       rect:
         serializedVersion: 2
         x: 175
@@ -901,7 +904,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_53
+      name: 8
       rect:
         serializedVersion: 2
         x: 185
@@ -915,7 +918,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_54
+      name: 9
       rect:
         serializedVersion: 2
         x: 195
@@ -929,7 +932,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_55
+      name: _2
       rect:
         serializedVersion: 2
         x: 204
@@ -943,7 +946,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_56
+      name: _3
       rect:
         serializedVersion: 2
         x: 212
@@ -957,7 +960,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_57
+      name: _4
       rect:
         serializedVersion: 2
         x: 220
@@ -971,11 +974,53 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: 59537_58
+      name: _5
       rect:
         serializedVersion: 2
         x: 228
         y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 59537_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 140
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 59537_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 142
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 87
         width: 6
         height: 7
       alignment: 0

@@ -73,6 +73,7 @@ public class Manager : Singleton<Manager>
     private void InvokeScore()
     {
         _score++;
+        UIManager.Instance.Score = _score;
         Debug.Log(_score);
     }
 }

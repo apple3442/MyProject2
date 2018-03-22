@@ -14,6 +14,10 @@ public class UIManager : Singleton<UIManager>
     [SerializeField]
     private Button _tipButton = null;
 
+    [SerializeField]
+    private NumbersRnderer _numbersRenderer = null;
+
+    public int Score { set { _numbersRenderer.Value = value; } }
 
     public void StartButton ()
     {
@@ -37,6 +41,7 @@ public class UIManager : Singleton<UIManager>
 
     private void ShowScore()
     {
-
+        _numbersRenderer.Value = 0;
+        _numbersRenderer.gameObject.SetActive(true);
     }
 }
