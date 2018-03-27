@@ -66,6 +66,7 @@ TextureImporter:
     21300118: 59537_14
     21300120: 59537_19
     21300122: _1
+    21300124: _empty
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -1025,6 +1026,20 @@ TextureImporter:
         height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _empty
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

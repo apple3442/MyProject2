@@ -290,6 +290,8 @@
     <Compile Include="Assets\Script\Game\MoveObject.cs" />
     <Compile Include="Assets\Script\Game\Pipe.cs" />
     <Compile Include="Assets\Script\Game\Singleton.cs" />
+    <Compile Include="Assets\Script\UI\GameOverPopup.cs" />
+    <Compile Include="Assets\Script\UI\MedalRenderer.cs" />
     <Compile Include="Assets\Script\UI\NumberRenderer.cs" />
     <Compile Include="Assets\Script\UI\NumbersRnderer.cs" />
     <Compile Include="Assets\Script\UI\UIManager.cs" />

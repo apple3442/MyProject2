@@ -33,8 +33,16 @@ public class Manager : Singleton<Manager>
 
     private void Start()
     {
-        //_bPlay = true;
-}
+        Init();
+    }
+
+    private void Init()
+    {
+        _bPlay = false;
+        _score = 0;
+        _currentTime = 0.0f;
+        _bird.transform.position=
+    }
 
     // Update is called once per frame
     void Update()
